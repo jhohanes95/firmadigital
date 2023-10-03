@@ -89,13 +89,13 @@
 					echo "<h1>DESCARGA AUTOMÁTICA EXITOSA</h1>";
 			
         echo "<p	style='color:#c51f33';><b>Revise su carpeta de descargas</b><p>";
-                    /*
+                    ////////
 					echo "Salida del comando:<br>";
 					echo "<br>UPLOAD_ERR_OK = ",UPLOAD_ERR_OK,"<br>";
                     foreach ($salida as $linea) {
                         echo $linea . "<br>";
                     }
-					*/
+					/////////
 			session_start();
 // Definir la variable a enviar
 $miVariable = $nombre_salida;
