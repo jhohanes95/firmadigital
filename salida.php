@@ -60,7 +60,7 @@
 <div class="container">
     <h1>Firmar Archivo PDF'S</h1>
     <form action="" method="post" enctype="multipart/form-data">
-        <label for="pdfFile">Selecciona un archivo PDF:</label>
+        <label for="pdfFile">XXXSelecciona un archivo PDF:</label>
         <input type="file" name="pdfFile" id="pdfFile" accept=".pdf" required>
         <br>
         <input type="submit" name="submit" value="Procesar">
