@@ -111,6 +111,7 @@ $_SESSION['variable'] = $miVariable;
                 }
             } else {
                 echo "No se encontró el valor de 'estado' en la salida JSON.<br>";
+                print_r($salida);
             }
 
             echo "</pre>";
