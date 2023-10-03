@@ -98,7 +98,7 @@
                     print_r($salida);
                 }
             } else {
-                echo "No se encontró el valor de 'estado' en la salida JSON.<br>";
+                echo "No se encontró el valor de 'estado' en la salida JSON Copia.<br>";
             }
 
             echo "</pre>";
