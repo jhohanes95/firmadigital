@@ -1,1 +1,1 @@
-web: heroku-php-apache2 firmadigital/public
+web: heroku-php-apache2 firmadigital/public/
